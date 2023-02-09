@@ -14,7 +14,9 @@ Then I got this as an answer:
 Here are five potential questions you could explore using the Bike Purchase dataset:
 
 1. What is the relationship between income and the likelihood of purchasing a bike?
+Answer: The chart shows that males who are willing to buy bikes are more than counterpart females, but there isn't a huge difference between the number of males and females who tend to buy bikes. Also, when we combine the gender and their annual income, the chart shows that males with higher income are more likely to buy bikes. Also, males with higher income buy more bikes than females. 
 2. How does marital status impact the likelihood of purchasing a bike?
+Answer:
 3. What is the relationship between the number of cars owned and the likelihood of purchasing a bike?
 4. How does the distance of one's commute relate to the likelihood of purchasing a bike?
 5. What is the relationship between education level and the likelihood of purchasing a bike?
