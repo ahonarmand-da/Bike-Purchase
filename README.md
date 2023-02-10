@@ -2,7 +2,7 @@
 This is a project that Alex the Analyst did but I made some tweaks.
 
 ## Methodology
-The methodology employed in this project was a combination of observational analysis and data visualization. Initially, the project followed the approach demonstrated in a video by Alex the Analyst. However, to add an element of originality and authenticity, the project was then modified through consultation with OpenAI's ChatGPT.
+The methodology employed in this project was a combination of observational analysis and data visualization. Initially, the project followed the approach demonstrated in a [video by Alex the Analyst](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=7). However, to add an element of originality and authenticity, the project was then modified through consultation with OpenAI's ChatGPT.
 
 After giving the below instruction to the OpenAI's ChatGPT:
 
